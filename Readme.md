@@ -4,7 +4,7 @@
 
 ## 👉 Visualizar Site: <a href='https://ricardocamarinha.vercel.app/'>Ver Site</a>
 
-### » Tecnologias utilizadas: HTML, CSS, SASS, JS.
+### » Tecnologias utilizadas: HTML, CSS, JS, PHP.
 
 ##
 
